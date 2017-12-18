@@ -1,0 +1,14 @@
+
+This program will simulate how long it takes for a pendulum to reach angle 0. 
+This is important because angle 0 causes the pendalum to accerlate. 
+It's the angle we need to constantly swing through to gain higher 
+pendulum amplitudes. Thats because one we go past angle 0, we will always deaccelerate. 
+This program will print out 2 pieces of information, the first being how many frames does it take
+for the pendulum to swing through angle 0 without any RNG manipulation. And the Second
+is how long will it take the game to orient the pedulum in a position so that is is more than half way 
+through a full circle.
+
+COMING SOON!!!!!!!!!!!!!!!!!!!!!!!!!!!
+From here, this program will be improved to determine how to use Mario to speedup
+this manipulation
+
